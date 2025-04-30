@@ -1,3 +1,5 @@
+
+![understanding-cancer-featured](https://github.com/user-attachments/assets/f064f273-0950-4ad8-bf06-779686f51ab6)
 Tracking a Decade of Global Cancer Trends (2015–2024)
 
 Introduction
